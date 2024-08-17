@@ -25,7 +25,7 @@ Este projeto é uma solução para o [desafio de cartão de pré-visualização 
 
 <!-- Ajustar estes links -->
 
-- URL da Solução: [Adicionar URL da solução aqui](https://www.frontendmentor.io/solutions/blog-preview-card-solution)
+- URL da Solução: [Adicionar URL da solução aqui](https://www.frontendmentor.io/solutions/blog-preview-card-2SsC28zUFI)
 - URL do Site: [Adicionar URL do site aqui](https://deusdeteneto.github.io/Blog-preview-card/)
 
 ## Meu processo
