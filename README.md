@@ -19,7 +19,7 @@ Este projeto é uma solução para o [desafio de cartão de pré-visualização 
 
 ### Screenshot
 
-![Screenshot do Projeto](./screenshot.jpg)
+![Screenshot do Projeto](https://raw.githubusercontent.com/deusdeteneto/Blog-preview-card/main/design/desktop-design.jpeg)
 
 ### Links
 
