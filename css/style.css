@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap");
+
+:root {
+  --yellow: hsl(47, 88%, 63%);
+  --white: hsl(0, 0%, 100%);
+  --gray-500: hsl(0, 0%, 42%);
+  --gray-950: hsl(0, 0%, 7%);
+}
+
+body {
+  background-color: var(--yellow) !important;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.card {
+  background-color: var(--white) !important;
+  border: 1px solid var(--gray-950) !important;
+  box-shadow: 8px 6px var(--gray-950);
+  font-family: "Figtree", sans-serif;
+}
+
+.btn {
+  font-size: 11px !important;
+  background-color: var(--yellow) !important;
+  border: none !important;
+}
+
+.user-name,
+.card-text,
+.card-text-data {
+  font-size: 12px;
+}
+
+.card-text {
+  color: var(--gray-500);
+}
+
+.card-title {
+  font-size: 18px;
+  color: var(--gray-950);
+}
+
+.user-name,
+.card-title {
+  font-weight: 900;
+}
+
+.card-title:hover {
+  color: var(--yellow);
+  cursor: pointer;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  padding: 10px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
